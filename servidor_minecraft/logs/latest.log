@@ -26,3 +26,13 @@
 [13:29:16] [Server thread/INFO]: [Noxxx: Set the time to 1000]
 [13:29:46] [Server thread/INFO]: Noxxx has made the advancement [Stone Age]
 [13:31:01] [Server thread/INFO]: Noxxx fell from a high place
+[13:37:58] [Server thread/INFO]: Villager cmk['Villager'/4599, l='ServerLevel[world]', x=-988.07, y=68.00, z=-145.63] died, message: 'Villager suffocated in a wall'
+[13:38:24] [Server thread/INFO]: [Noxxx: Set own game mode to Creative Mode]
+[13:38:31] [Server thread/INFO]: [Noxxx: Set the weather to clear]
+[13:38:42] [Server thread/INFO]: [Noxxx: Set the time to 1000]
+[13:38:58] [Server thread/INFO]: Noxxx has completed the challenge [Cover Me in Debris]
+[13:41:46] [Server thread/INFO]: [Noxxx: Set own game mode to Survival Mode]
+[13:42:13] [Server thread/INFO]: Noxxx has made the advancement [The End?]
+[13:42:14] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[13:42:14] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[13:42:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2114ms or 42 ticks behind
